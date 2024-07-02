@@ -1,16 +1,54 @@
-## Hi there 👋
+## 👋 Hi, I'm tmurakam
 
-<!--
-**tmurakam/tmurakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/tmurakam/tmurakam/">
+    <img src="https://komarev.com/ghpvc/?username=tmurakam" alt="tmurakam" />
+  </a>
+  <a href="http://twitter.com/tmurakam99">
+    <img height="20" src="https://img.shields.io/twitter/follow/tmurakam99?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/tmurakam">
+    <img height="20" src="https://img.shields.io/github/followers/tmurakam?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://qiita.com/tmurakam99">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tmurakam99/posts.svg" />
+  </a>
+  <a href="https://qiita.com/tmurakam99">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tmurakam99/contributions.svg" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming language
+- Java
+- Kotlin
+- Swift
+- Objective-C
+- C/C++
+- C#
+- Go
+- JavaScript
+- Ruby
+- Python
+
+### Framework
+- Spring Framework / Spring Boot
+
+### OS
+- Linux
+- Android
+- iOS
+
+### Cloud
+- AWS
+- Azure
+- Kubernetes
+
+### Other technologies
+- Biometrics authentication
+- Video analytics
+- TCP/IP
+
+### Fun
+- [Piano](https://www.youtube.com/@tmurakam)
