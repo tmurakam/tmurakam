@@ -1,4 +1,4 @@
-## 👋 Hi, I'm tmurakam
+## 👋 Hi, I'm tmurakam (Takuya Murakami)
 
 <p align="left">
   <a href="https://github.com/tmurakam/tmurakam/">
