@@ -50,6 +50,10 @@
 - Video analytics
 - TCP/IP
 
+### Awards
+- [UMTP Best Modeler of the Year 2013](https://umtp-japan.org/about_exam/about_examabout_examabout_examabout_examabout_examabout_exambest-modeler-of-the-year)
+
+
 ### Others
 - [NEC BluSteller Innovators 100](https://jpn.nec.com/dx/special/innovators100/index.html)
 
