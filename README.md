@@ -50,5 +50,8 @@
 - Video analytics
 - TCP/IP
 
+### Others
+- [NEC BluSteller Innovators 100](https://jpn.nec.com/dx/special/innovators100/index.html)
+
 ### Fun
 - [Piano](https://www.youtube.com/@tmurakam)
